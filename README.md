@@ -25,6 +25,7 @@ Desain Program Kafe Kekinian
 
 ## Cara Compile
 g++ main.cpp -o kafe_indonesia
+
 ./kafe_indonesia
 
 ## Output
