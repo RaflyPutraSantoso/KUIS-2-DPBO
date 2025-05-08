@@ -6,19 +6,21 @@
 ## Penjelasan
 Desain Program Kafe Kekinian 
 1. Kelas Utama 
-• SistemKafe: Mengkoordinasi seluruh sistem 
-• MenuItem<T>: Template class untuk item menu 
-• Inventory: Manajemen stok (menggunakan STL map) 
-• Pesanan: Menangani transaksi (friend class Inventory) 
-• Pelanggan: Data pelanggan dan membership 
+- SistemKafe: Mengkoordinasi seluruh sistem 
+- MenuItem<T>: Template class untuk item menu 
+- Inventory: Manajemen stok (menggunakan STL map) 
+- Pesanan: Menangani transaksi (friend class Inventory) 
+- Pelanggan: Data pelanggan dan membership 
 2. Konsep yang digunakan 
-• Template: MenuItem untuk fleksibilitas tipe harga 
-• - STL: vector, map, pair untuk manajemen data 
-• - Friend: Pesanan perlu akses langsung ke Inventory 
-• - Exception: Custom exception untuk error handling 
+- Template: MenuItem untuk fleksibilitas tipe harga 
+- STL: vector, map, pair untuk manajemen data 
+- Friend: Pesanan perlu akses langsung ke Inventory 
+- Exception: Custom exception untuk error handling 
 3. Alur Program 
-• Inisialisasi data menu dan pelanggan 
-• User memilih pelanggan 
-• User memesan menu 
-• Sistem validasi stok dan hitung total 
-• Apply diskon berdasarkan membership
+- Inisialisasi data menu dan pelanggan 
+- User memilih pelanggan 
+- User memesan menu 
+- Sistem validasi stok dan hitung total 
+- Apply diskon berdasarkan membership
+
+## Output
