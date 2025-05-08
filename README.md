@@ -24,3 +24,6 @@ Desain Program Kafe Kekinian
 - Apply diskon berdasarkan membership
 
 ## Output
+![Image](https://github.com/user-attachments/assets/2356175f-43ac-4d13-8431-9a99625cfaf5)
+![Image](https://github.com/user-attachments/assets/d1d02fd5-4e06-4eef-9a5c-d548bef84c12)
+![Image](https://github.com/user-attachments/assets/c6813290-cc5f-4b00-96b3-efd31556c887)
