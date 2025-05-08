@@ -23,6 +23,10 @@ Desain Program Kafe Kekinian
 - Sistem validasi stok dan hitung total 
 - Apply diskon berdasarkan membership
 
+## Cara Compile
+g++ main.cpp -o kafe_indonesia
+./kafe_indonesia
+
 ## Output
 ![Image](https://github.com/user-attachments/assets/2356175f-43ac-4d13-8431-9a99625cfaf5)
 ![Image](https://github.com/user-attachments/assets/d1d02fd5-4e06-4eef-9a5c-d548bef84c12)
